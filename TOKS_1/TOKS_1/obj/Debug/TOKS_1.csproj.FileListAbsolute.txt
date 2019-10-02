@@ -1,0 +1,9 @@
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\bin\Debug\TOKS_1.exe.config
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\bin\Debug\TOKS_1.exe
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\bin\Debug\TOKS_1.pdb
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.Form1.resources
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.Properties.Resources.resources
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.exe
+C:\Users\Владислав\source\repos\TOKS_1\TOKS_1\obj\Debug\TOKS_1.pdb
